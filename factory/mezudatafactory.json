@@ -1,0 +1,9 @@
+{
+	"name": "mezudatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2f106d2c-f420-4024-8419-f5e4af3d3921",
+		"tenantId": "004c5b07-ce82-49b4-ba54-b08c0e4a40ce"
+	}
+}
