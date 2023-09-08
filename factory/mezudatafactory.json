@@ -1,5 +1,13 @@
 {
 	"name": "mezudatafactory",
+	"properties": {
+		"globalParameters": {
+			"azuredb": {
+				"type": "string",
+				"value": "mezusqlserver.database.windows.net"
+			}
+		}
+	},
 	"location": "eastus",
 	"identity": {
 		"type": "SystemAssigned",
