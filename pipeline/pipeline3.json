@@ -15,7 +15,10 @@
 				},
 				"userProperties": [],
 				"typeProperties": {
-					"notebookPath": "/Users/millennialdatapreneur@gmail.com/mezuesample"
+					"notebookPath": "/Users/millennialdatapreneur@gmail.com/mezuesample",
+					"baseParameters": {
+						"var1": "'Jimmy'"
+					}
 				},
 				"linkedServiceName": {
 					"referenceName": "AzureDatabricks1",
