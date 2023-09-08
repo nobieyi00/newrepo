@@ -1,0 +1,6 @@
+{
+	"azuredb": {
+		"type": "string",
+		"value": "mezusqlserver.database.windows.net"
+	}
+}
