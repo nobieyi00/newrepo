@@ -17,7 +17,7 @@
 				"typeProperties": {
 					"notebookPath": "/Users/millennialdatapreneur@gmail.com/mezuesample",
 					"baseParameters": {
-						"var1": "'Jimmy'"
+						"var1": "Jimmy"
 					}
 				},
 				"linkedServiceName": {
